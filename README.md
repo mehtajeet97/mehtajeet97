@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Next, Vue and React
+- 📫 How to reach me: drop a mail at mehta.jeet97@gmail.com or send a message on linkedin at www.linkedin.com/in/mehtajeet97 
 
 <!--
 **mehtajeet97/mehtajeet97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
