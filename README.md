@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Next, Vue and React
+- 🤔 I’m pursuing my Masters in Computer Science and am actively looking for full-time roles 
 - 💬 Ask me about Web Development, DevOps, Machine Learning and Data Analysis
 - 📫 How to reach me: drop a mail at mehta.jeet97@gmail.com or send a message on linkedin at www.linkedin.com/in/mehtajeet97 
 
