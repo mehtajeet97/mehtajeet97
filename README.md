@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 📚 I’m pursuing my Masters in Computer Science at Stevens Institute of Technology
 - 🖥 I am actively looking for full-time roles starting 2024
