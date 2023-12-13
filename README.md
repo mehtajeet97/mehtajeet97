@@ -1,7 +1,7 @@
-Hello there ! My name is Jeet Mehta
+Hello there ! 
 ==================================================================================================================================
 
-Full Stack Developer
+My name is Jeet Mehta
 --------------------
 
 Currently pursuing my Masters in Computer Science at Stevens Institute of Technology. I am actively looking for full-time roles starting 2024
