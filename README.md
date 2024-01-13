@@ -8,7 +8,7 @@ Actively looking for full-time Job Opportunities. Currently pursuing my Masters 
 <br>
 * 🧠 I’m currently learning Next, Vue and React
 * 💬 Ask me anything about Web Development, DevOps, Machine Learning and Data Analysis
-* ✉️  You can contact me at [mehta.jeet97@gmail.com](mailto:mehta.jeet97@gmail.com)
+* ✉️  To connect, you can email me at [mehta.jeet97@gmail.com](mailto:mehta.jeet97@gmail.com)
 
 ### Skills
 
