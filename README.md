@@ -4,7 +4,7 @@ Hello there !!!
 My name is Jeet Mehta
 --------------------
 
-Actively looking for full-time roles & Job Opportunities. Currently pursuing my Masters in Computer Science at Stevens Institute of Technology.
+Actively looking for full-time job opportunities. Currently pursuing my Masters in Computer Science at Stevens Institute of Technology.
 <br>
 * 🧠 I’m currently learning Next, Vue and React
 * 💬 Ask me anything about Web Development, DevOps, Machine Learning and Data Analysis
